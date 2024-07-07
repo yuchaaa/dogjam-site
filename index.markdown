@@ -4,3 +4,5 @@
 
 layout: home
 ---
+# Welcome to ~~Seiran Island~~ Kivotos... I mean DogJam
+ChatGPT text goes here
