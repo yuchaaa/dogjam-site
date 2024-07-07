@@ -21,13 +21,12 @@
 title: DogJam
 email: me@kskm.org
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  dogJam is a retirement home for veterans that still play a fair amount of GW but would like a more relaxed atmosphere. 
+  We do top 300 in prelims then after that, aim to secure top 2500 in crew totals.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://dogjam.site" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 95rn16
-twitter_username2:  jekyll
+twitter_username2: uyupekochan
 
 # Build settings
 theme: minima
