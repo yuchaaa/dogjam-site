@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+# Welcome to DogJam
+
+We're a Top 300 Prelim crew and slack off the rest.
