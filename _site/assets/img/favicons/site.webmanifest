@@ -1,0 +1,23 @@
+
+
+{
+  "name": "DogJam",
+  "short_name": "DogJam",
+  "description": "dogJam is a retirement home for veterans that still play a fair amount of GW but would like a more relaxed atmosphere.  We do top 300 in prelims then after that, aim to secure top 2500 in crew totals.",
+  "icons": [
+    {
+      "src": "/assets/img/favicons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/img/favicons/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }],
+  "start_url": "/index.html",
+  "theme_color": "#2a1e6b",
+  "background_color": "#ffffff",
+  "display": "fullscreen"
+}
+

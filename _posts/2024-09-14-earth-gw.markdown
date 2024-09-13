@@ -1,8 +1,12 @@
 ---
-layout: post
 title:  "Earth GW 2024"
-date:   2024-09-14 12:54:10 +0900
-categories: gw earth 
+description : >-
+    DogJam's Earth GW 2024 Experience
+author : yuchaaa
+date:   2024-09-14 00:54:10 +0900
+categories: [DogJam, News, GW]
+tags : [News, GW, Earth]
+pin : true
 ---
 
 > We got fucked in the ass
