@@ -22,7 +22,7 @@ group :jekyll_plugins do
   gem 'jekyll-compose'
 end
 
-gem "html-proofer", "~> 5.0", group: :test
+gem "html-proofer", "~> 3.15", group: :test
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
