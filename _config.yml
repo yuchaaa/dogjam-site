@@ -25,8 +25,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   We do top 300 in prelims then after that, aim to secure top 2500 in crew totals.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://dogjam.site" # the base hostname & protocol for your site, e.g. http://example.com
-michael: "95rn16"
-yuka: "uyupekochan"
+twitter_username: uyupekochan
+github_username:  yuchaaa
+twitter_username: 95rn16
 
 # Build settings
 theme: minima

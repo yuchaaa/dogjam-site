@@ -4,7 +4,5 @@
 
 layout: home
 ---
-
-# Welcome to DogJam
-
-We're a Top 300 Prelim crew and slack off the rest.
+# Welcome to ~~Seiran Island~~ Kivotos... I mean DogJam
+ChatGPT text goes here
